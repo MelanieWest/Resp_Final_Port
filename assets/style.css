@@ -1,0 +1,62 @@
+.card-body {
+    /* background-image: url("images/wallppr_bluedropsdark.jpg"); */
+    background-color: cornsild;
+    height: 420px;
+    color: cornflowerblue;
+}
+.card { 
+    background-color: cornsilk;
+    color: cornflowerblue;
+}
+.menu {
+    border-radius: 4px;
+    color: cornflowerblue;
+}
+
+.collapse {
+    background-color: cornflowerblue;
+    color: cornsilk;
+    border-radius: 4px;
+}
+img{
+    border: solid cornflowerblue 2px;
+}
+
+.connections {  
+    position: absolute;
+    text-align: center;
+    right: 50px;
+    width: 30%;
+    height: 180px;
+    width: 180px;
+
+}
+#cgh {
+    position: absolute;
+    left: 20px;
+    top: 100px;
+    height: 40px;
+    width: 40px;
+  }
+  
+  #cli {
+    position: absolute;
+    left: 70px;
+    top: 100px;
+    height: 40px;   
+    width: 40px;
+  }
+  
+  #cso {
+    position: absolute;
+    left: 120px;
+    top: 100px;
+    height: 40px;
+    width: 40px;
+  }
+
+  .card-footer {
+      background-color: cornflowerblue;
+      color: cornsilk;
+  }
+  
