@@ -1,25 +1,30 @@
+.nav {
+    border-radius: 4px;
+}
+
 .card-body {
     /* background-image: url("images/wallppr_bluedropsdark.jpg"); */
-    background-color: cornsild;
+    background-color: #555555;
     height: 420px;
-    color: cornflowerblue;
+    color: #aaaaaa;
 }
 .card { 
-    background-color: cornsilk;
-    color: cornflowerblue;
+    background-color: #333333;
+    color: #dddddd;
 }
 .menu {
     border-radius: 4px;
-    color: cornflowerblue;
+    color: #aaaaaa;
 }
 
 .collapse {
-    background-color: cornflowerblue;
-    color: cornsilk;
+    background-color: #aaaaaa;
+    color: #ffffff;
     border-radius: 4px;
 }
 img{
-    border: solid cornflowerblue 2px;
+    border: solid #cccccc 10px;
+    border-radius: 2px;
 }
 
 .connections {  
@@ -56,7 +61,7 @@ img{
   }
 
   .card-footer {
-      background-color: cornflowerblue;
-      color: cornsilk;
+      background-color: #aaaaaa;
+      color: #111111;
   }
   
