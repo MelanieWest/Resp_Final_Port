@@ -36,6 +36,10 @@ img{
     width: 180px;
 
 }
+.page{
+    position: absolute;
+    top: 100px;
+}
 #cgh {
     position: absolute;
     left: 20px;
