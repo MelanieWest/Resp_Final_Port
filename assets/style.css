@@ -53,27 +53,24 @@ img{
 }
 
 #cgh {
-    position: absolute;
-    left: 20px;
-    top: 100px;
-    height: 40px;
-    width: 40px;
+    height: 50px;
+    width: 50px;
+    border: solid 3px #cccccc;
+    margin: 2px;
   }
   
   #cli {
-    position: absolute;
-    left: 70px;
-    top: 100px;
-    height: 40px;   
-    width: 40px;
+    height: 50px;   
+    width: 50px;
+    border: solid 3px #cccccc;  
+    margin: 2px;  
   }
   
-  #cso {
-    position: absolute;
-    left: 120px;
-    top: 100px;
-    height: 40px;
-    width: 40px;
+  #cem {
+    height: 50px;
+    width: 50px;
+    border: solid 3px #cccccc;
+    margin: 2px;    
   }
 
   .card-footer {
