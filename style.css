@@ -1,0 +1,77 @@
+.nav {
+    border-radius: 4px;
+}
+
+.card-body {
+    /* background-image: url("images/wallppr_bluedropsdark.jpg"); */
+    background-color: #555555;
+    height: 420px;
+    color: #aaaaaa;
+}
+.card { 
+    background-color: #333333;
+    color: #dddddd;
+}
+.menu {
+    border-radius: 4px;
+    color: #aaaaaa;
+}
+
+.collapse {
+    background-color: #aaaaaa;
+    color: #ffffff;
+    border-radius: 4px;
+}
+img{
+    border: solid #cccccc 10px;
+    border-radius: 2px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .connections {  
+    position: absolute;
+    text-align: center;
+    right: 50px;
+    width: 30%;
+    height: 180px;
+    width: 180px;
+
+} */
+
+
+#my, #self{
+    height: 240px;
+    width:180px;
+}
+
+#cgh {
+    height: 50px;
+    width: 50px;
+    border: solid 3px #cccccc;
+    margin: 2px;
+  }
+  
+  #cli {
+    height: 50px;   
+    width: 50px;
+    border: solid 3px #cccccc;  
+    margin: 2px;  
+  }
+  
+  #cem {
+    height: 50px;
+    width: 50px;
+    border: solid 3px #cccccc;
+    margin: 2px;    
+  }
+
+  .card-footer {
+      background-color: #aaaaaa;
+      color: #111111;
+  }
+  
